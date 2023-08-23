@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amazon-clone/static/css/main.6875d94a.css",
+    "main.js": "/amazon-clone/static/js/main.353d1063.js",
+    "index.html": "/amazon-clone/index.html",
+    "main.6875d94a.css.map": "/amazon-clone/static/css/main.6875d94a.css.map",
+    "main.353d1063.js.map": "/amazon-clone/static/js/main.353d1063.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6875d94a.css",
+    "static/js/main.353d1063.js"
+  ]
+}
